@@ -1,0 +1,15 @@
+.pic{
+    height: 200px;
+    margin: 5px;
+    border: 0px;
+}
+
+
+.show{
+    width: 50px;
+    margin: 5px;
+}
+.hide{
+    width: 50px;
+    margin: 5px;
+}
